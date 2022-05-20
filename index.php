@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Chůva index.php v akci</title>
+  <title>Jaroslavův blog</title>
   <link rel="stylesheet" href="styly.css">
 </head>
 <body>
@@ -10,8 +10,8 @@
 <nav>
   <ul>
     <li><a href="./">Úvod</a></li>
-    <li><a href="?page=sluzby">Služby</a></li>
-    <li><a href="?page=onas">O nás</a></li>
+    <li><a href="?page=omne">O mně</a></li>
+    <li><a href="?page=hry">Hry</a></li>
     <li><a href="?page=kontakt">Kontakt</a></li>
   </ul>
 </nav>

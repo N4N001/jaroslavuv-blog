@@ -1,3 +1,4 @@
+<div class="promenna_cast">
 <h1>
     Kontakt
 </h1>
@@ -8,3 +9,4 @@
 </p>
 <p>Email: <a href="mailto:jaroslavkasak4@protonmail.com">jaroslavkasak4@protonmail.com</a>
 </p>
+</div>

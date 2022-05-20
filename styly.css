@@ -25,10 +25,118 @@ nav :hover{
 
 h1{
     font-size: 35px;
+    text-align: center;
 }
-p {
+h2{
+    text-align: center;
+}
+footer p {
     font-size: 18px;
-    width: 600px;
+    width: 90%;
+    margin-left: 5%;
+    right: 5%;
+}
+
+.promenna_cast p{
+    font-size: 18px;
+    width: 90%;
+    clear: both;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.patrik p {
+    font-size: 10px;
+    text-align: center;
+    color: lightsteelblue;
+}
+
+.patrik img{
+    position: fixed;
+    margin-left: 39%;
+}
+
+.skola_foto img{
+    width: 640px;
+    height: 362.5px;
+    margin-left: 15%;
+    border-style: inset;
+    position: absolute;
+}
+
+.skola_foto a:nth-of-type(2){
+    padding-left: 35%;
+}
+
+.skola_foto h2{
+    font-size: 14px;
+    color: steelblue;
+    text-align: left;
+    margin-left: 8.5%;
+    padding-top: 5%;
+    position: absolute;
+}
+
+.skola_foto h2:nth-of-type(2){
+    font-size: 14px;
+    color: steelblue;
+    text-align: left;
+    margin-left: 85%;
+    padding-top: 5%;
+    position: absolute;
+}
+
+.hryimg img{
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-left: 5%;
+    border-style: outset;
+}
+
+.hryimg a{
+    z-index: 1;
+}
+
+.hry p{
+    z-index: -1;
+    position: absolute;
+    padding-top: 13.5%;
+    display: block;
+    width: 25%;
+    height: 25%;
+}
+
+.hry p:nth-of-type(2){
+    position: absolute;
+    display: block;
+    padding-left: 30%;
+    z-index: -2;
+}
+
+.hry p:nth-of-type(3){
+    position: absolute;
+    display: block;
+    padding-left: 60%;
+    z-index: -3;
+}
+
+.hry h2:nth-of-type(2){
+    display: inline;
+    padding-left: 24.5%;
+}
+
+.hry h2:nth-of-type(3){
+    display: inline;
+    padding-left: 15.5%;
+}
+
+.hry h2:first-of-type{
+    display: inline;
+    padding-top: 0px;
+    text-align: left;
+    margin-left: 5%;
 }
 
 ul li {
